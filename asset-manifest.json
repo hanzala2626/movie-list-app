@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/movie-list-app/static/css/main.915ec575.css",
-    "main.js": "/movie-list-app/static/js/main.7424cb4d.js",
-    "index.html": "/movie-list-app/index.html",
-    "static/media/search.svg": "/movie-list-app/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
-    "main.915ec575.css.map": "/movie-list-app/static/css/main.915ec575.css.map",
-    "main.7424cb4d.js.map": "/movie-list-app/static/js/main.7424cb4d.js.map"
+    "main.css": "/movie-list-app/index.html/static/css/main.915ec575.css",
+    "main.js": "/movie-list-app/index.html/static/js/main.30f6082e.js",
+    "index.html": "/movie-list-app/index.html/index.html",
+    "static/media/search.svg": "/movie-list-app/index.html/static/media/search.db964b809d21320fb503cb05f4dc8a09.svg",
+    "main.915ec575.css.map": "/movie-list-app/index.html/static/css/main.915ec575.css.map",
+    "main.30f6082e.js.map": "/movie-list-app/index.html/static/js/main.30f6082e.js.map"
   },
   "entrypoints": [
     "static/css/main.915ec575.css",
-    "static/js/main.7424cb4d.js"
+    "static/js/main.30f6082e.js"
   ]
 }
