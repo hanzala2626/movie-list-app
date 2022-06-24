@@ -1,7 +1,7 @@
 {
   "name": "bad_boy_character",
   "version": "0.1.0",
-  "homepage": "https://hanzala2626.github.io/movie-list-app/index.html",
+  "homepage": "https://hanzala2626.github.io/movie-list-app",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
